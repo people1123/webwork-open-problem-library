@@ -28,9 +28,9 @@ BEGIN_TEXT
 
 $PAR
 
-Suppose a function \(f\) is $a times differentiable and \(f^{($a)}=f\). Then, it turns out that \(f\) is infinitely differentiable and that for any positive number \(n\), \(f^{(n)}\) equals one of the functions \(f, \; f', \; f'', \; ... \; , \; f^{($b)} \).$BR
-So, find a positive number \(k\) so that \(f^{($c)}=f^{(k)}\) and \(0 \leq k 
-\leq $b\).
+Suppose a function \(f\) is 30 times differentiable and \(f^{(30)}=f\). Then, it turns out that \(f\) is infinitely differentiable and that for any positive number \(n\), \(f^{(n)}\) equals one of the functions \(f, \; f', \; f'', \; ... \; , \; f^{(29)} \).$BR
+So, find a positive number \(k\) so that \(f^{(154)}=f^{(k)}\) and \(0 \leq k 
+\leq 29\).
 
 $PAR
 
